@@ -1,1 +1,3 @@
-A simple game that can let you colonize or destroy stars in a randomly generated galaxy
+# 光速打击 Lightspeed Strike
+
+在游戏内，你可以尽情地殖民星系、拓展自己的领地、并对其他星系进行打击。你要与其它NPC争夺星系资源，并争取让自己活到最后。
